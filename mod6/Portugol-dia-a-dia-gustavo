@@ -1,0 +1,51 @@
+// Variáveis
+variaveis
+    chovendo : caractere
+    cansado : caractere
+
+inicio
+    // Acordar
+    escreva("Acordar")
+
+    // Levantar
+    escreva("Levantar da cama")
+
+    // Ir ao banheiro
+    escreva("Ir ao banheiro")
+
+    // Verificar se está chovendo
+    escreva("Está chovendo? (s/n)")
+    leia(chovendo)
+
+    se chovendo = "s" entao
+        escreva("Pegar guarda-chuva")
+    senao
+        escreva("Ir tranquilo")
+    fimse
+
+    // Pegar o ônibus
+    escreva("Pegar o ônibus")
+
+    // Ir trabalhar
+    escreva("Ir trabalhar na empresa")
+
+    // Chegar na empresa
+    escreva("Chegar na empresa")
+
+    //Chegar em casa
+    escreva("Chegar em casa")
+
+    // Verificar se está cansado
+    escreva("Está cansado? (s/n)")
+    leia(cansado)
+
+    se cansado = "s" entao
+        escreva("Estudar menos")
+    senao
+        escreva("Estudar mais")
+    fimse
+
+    // Ir dormir
+    escreva("Ir dormir")
+
+fimalgoritmo
