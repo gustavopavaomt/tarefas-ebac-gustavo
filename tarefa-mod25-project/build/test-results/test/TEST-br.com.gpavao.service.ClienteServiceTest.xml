@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.gpavao.service.ClienteServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-14T13:57:40" hostname="L-6002" time="1.678">
+  <properties/>
+  <testcase name="testRemoverCliente()" classname="br.com.gpavao.service.ClienteServiceTest" time="1.634"/>
+  <testcase name="esperadoErroAoBuscarClienteNotFound()" classname="br.com.gpavao.service.ClienteServiceTest" time="0.023"/>
+  <testcase name="testAtualizarCliente()" classname="br.com.gpavao.service.ClienteServiceTest" time="0.004"/>
+  <testcase name="testCadastrarCliente()" classname="br.com.gpavao.service.ClienteServiceTest" time="0.003"/>
+  <testcase name="testBuscarClientePorId()" classname="br.com.gpavao.service.ClienteServiceTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

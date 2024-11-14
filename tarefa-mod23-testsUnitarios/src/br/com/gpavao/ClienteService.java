@@ -1,4 +1,4 @@
-package br.com.gpavao.service;
+package br.com.gpavao;
 
 import br.com.gpavao.dao.IClienteDao;
 

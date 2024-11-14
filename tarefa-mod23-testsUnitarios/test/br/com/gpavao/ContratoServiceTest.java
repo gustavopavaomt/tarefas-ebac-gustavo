@@ -3,8 +3,6 @@ package br.com.gpavao;
 import br.com.gpavao.dao.ContratoDao;
 import br.com.gpavao.dao.IContratoDao;
 import br.com.gpavao.dao.mocks.ContratoDaoMock;
-import br.com.gpavao.service.ContratoService;
-import br.com.gpavao.service.IContratoService;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -3,7 +3,6 @@ package br.com.gpavao;
 import br.com.gpavao.dao.ClienteDao;
 import br.com.gpavao.dao.ClienteDaoMock;
 import br.com.gpavao.dao.IClienteDao;
-import br.com.gpavao.service.ClienteService;
 import org.junit.Assert;
 import org.junit.Test;
 
